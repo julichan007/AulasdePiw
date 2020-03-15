@@ -1,0 +1,40 @@
+.Começo{
+    height: 30%;
+    background-color: azure;
+    color: black;
+    display: flex;
+    flex-direction: row;
+}
+
+.img{
+    left: 0;
+    width: 200px;
+    height: 100px;
+    margin-right: 45px;
+}
+
+.divBtn{
+    margin-top: 50px;
+}
+.btn{
+    background-color: burlywood;
+    padding: 15px;
+    margin: 6px;
+    border: 1px solid black;
+
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+
+.login{
+    margin-left: 800px;
+    margin-top: 80px;
+
+}
+
+.login a{
+    text-decoration: none;
+}
